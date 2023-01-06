@@ -14,7 +14,7 @@ class SimpleCalcTest {
 
         assertEquals(3, simpleCalc.calc(1,2));
         assertEquals(11, simpleCalc.calc(4,7));
-        assertEquals(6, simpleCalc.calc(2,4));
+        assertEquals(5, simpleCalc.calc(2,4));
 
     }
 

@@ -13,7 +13,7 @@ class SimpleCalcTest {
         var simpleCalc = new SimpleCalc();
 
         assertEquals(3, simpleCalc.calc(1,2));
-        assertEquals(11, simpleCalc.calc(3,7));
+        assertEquals(11, simpleCalc.calc(4,7));
         assertEquals(6, simpleCalc.calc(2,4));
 
     }
